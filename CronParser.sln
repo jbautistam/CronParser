@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibCronParser", "src\LibCronParser\LibCronParser.csproj", "{0AFFA1BD-91E4-4959-8500-1C232CC0C286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCronTest", "Testing\ConsoleCronTest\ConsoleCronTest.csproj", "{4413DCD3-BD53-4255-BA2D-718D4489C601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugNoDemo|Any CPU = DebugNoDemo|Any CPU
+		Net35Release|Any CPU = Net35Release|Any CPU
+		Net40Release|Any CPU = Net40Release|Any CPU
+		Release 3.5|Any CPU = Release 3.5|Any CPU
+		Release 4.0|Any CPU = Release 4.0|Any CPU
+		Release 4.5|Any CPU = Release 4.5|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.DebugNoDemo|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.DebugNoDemo|Any CPU.Build.0 = Debug|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Net35Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Net35Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Net40Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Net40Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Release 3.5|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Release 3.5|Any CPU.Build.0 = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Release 4.0|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Release 4.0|Any CPU.Build.0 = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Release 4.5|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Release 4.5|Any CPU.Build.0 = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFFA1BD-91E4-4959-8500-1C232CC0C286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.DebugNoDemo|Any CPU.ActiveCfg = Debug|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.DebugNoDemo|Any CPU.Build.0 = Debug|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Net35Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Net35Release|Any CPU.Build.0 = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Net40Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Net40Release|Any CPU.Build.0 = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Release 3.5|Any CPU.ActiveCfg = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Release 3.5|Any CPU.Build.0 = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Release 4.0|Any CPU.ActiveCfg = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Release 4.0|Any CPU.Build.0 = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Release 4.5|Any CPU.ActiveCfg = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Release 4.5|Any CPU.Build.0 = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4413DCD3-BD53-4255-BA2D-718D4489C601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
